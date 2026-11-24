@@ -1,0 +1,19 @@
+Operator,Description,Error_count
+Charlie,"Machine adjustment",4
+Dennis,"Machine adjustment",4
+Mac,"Batch change",3
+Mac,"Batch coding error",3
+Dee,"Machine adjustment",3
+Dee,"Label switch",2
+Dee,"Calibration error",2
+Mac,"Machine adjustment",1
+Charlie,"Calibration error",1
+Charlie,"Batch change",1
+Dee,"Product spill",1
+Dennis,"Product spill",1
+Charlie,"Label switch",1
+Charlie,"Batch coding error",1
+Charlie,"Product spill",1
+Dee,"Batch change",1
+Dee,"Batch coding error",1
+Dennis,"Batch coding error",1
